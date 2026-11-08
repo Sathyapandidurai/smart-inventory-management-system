@@ -1,0 +1,7 @@
+# VS Code workspace settings
+.vscode/
+
+# Environment files and secrets
+.env
+.env.*
+*.log
